@@ -10,5 +10,6 @@
             "extract_dir": "v-sekai-godot-windows"
         }
     },
-    "bin": [["godot.windows.editor.double.x86_64.llvm.exe", "vsekai_editor"]]
+    "bin": "vsekai_editor.exe",
+    "post_install": "Rename-Item \"$dir\\godot.windows.editor.double.x86_64.llvm.exe\" \"vsekai_editor.exe\""
 }
