@@ -4,6 +4,6 @@
     "homepage": "https://github.com/V-Sekai/xr-grid",
     "license": "MIT",
     "url": "https://github.com/V-Sekai/xr-grid/releases/download/0.1.1-nightly-2025-09-26T045629-e895a68_editor-986baba/xr-grid_0.1.1-e895a68_editor-986baba_Windows.exe",
-    "hash": "A1B5F87D35CCDF0665CA309B29F3FD1499B8E84077DD3C8125868DF84EB7EB55D",
+    "hash": "A1B5F87D35CCDF0665CA309B29F3FD1499B8E84077DD3C8125868DF84EB7EB5D",
     "bin": [["xr-grid_0.1.1-e895a68_editor-986baba_Windows.exe", "xr_grid"]]
 }
