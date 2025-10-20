@@ -22,3 +22,5 @@ scoop install scoop-world/<app_name>
   - Command: `vsekai_editor`
 - **vsekai-game**: V-Sekai Game
   - Command: `vsekai_game`
+- **vsekai-dev**: V-Sekai Game (Development/Testing Build)
+  - Command: `vsekai_dev`
