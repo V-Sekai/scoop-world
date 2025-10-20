@@ -32,3 +32,5 @@ scoop install scoop-world/<app_name>
   - Command: `xr_grid`
 - **tool-model-explorer**: TOOL Model Explorer
   - Command: `model_explorer`
+- **fbx-udim-unpack**: FBX UDIM Unpack tool
+  - Command: `vsekai_fbx_udim_unpack`
