@@ -28,3 +28,5 @@ scoop install scoop-world/<app_name>
   - Command: `vsekai_game`
 - **vsekai-dev**: V-Sekai Game (Development/Testing Build)
   - Command: `vsekai_dev`
+- **xr-grid**: XR Grid
+  - Command: `xr_grid`
