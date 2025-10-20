@@ -4,6 +4,6 @@
     "homepage": "https://github.com/V-Sekai/scoop-world",
     "license": "MIT",
     "url": "https://raw.githubusercontent.com/V-Sekai/scoop-world/main/LICENSE",
-    "hash": "d1cc63e4bbd84056486f9a315eaa273171b2a4d8025f9a6dfb880ed1bbb34e4a",
+    "hash": "d553fc06acac35c66d07ec9ad50027ea0e3552eaaf0a97ba2d7d98f1020c3932",
     "depends": ["vsekai-godot", "vsekai-game", "vsekai-game-dev"]
 }
