@@ -30,3 +30,5 @@ scoop install scoop-world/<app_name>
   - Command: `vsekai_dev`
 - **xr-grid**: XR Grid
   - Command: `xr_grid`
+- **tool-model-explorer**: TOOL Model Explorer
+  - Command: `model_explorer`
