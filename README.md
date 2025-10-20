@@ -2,6 +2,10 @@
 
 V-Sekai Scoop bucket for tools and applications.
 
+## Prerequisites
+
+This bucket requires [Scoop](https://scoop.sh/) to be installed. If you don't have Scoop installed yet, visit the [official Scoop website](https://scoop.sh/) for installation instructions.
+
 ## Installation
 
 Add the bucket:
