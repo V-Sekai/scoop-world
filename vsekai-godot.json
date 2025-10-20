@@ -1,5 +1,5 @@
 {
-    "version": "latest.v-sekai-editor-258",
+    "version": "latest.v-sekai-editor-258.0",
     "description": "V-Sekai Godot Editor",
     "homepage": "https://github.com/V-Sekai/world-godot",
     "license": "MIT",
@@ -10,6 +10,5 @@
             "extract_dir": "v-sekai-godot-windows"
         }
     },
-    "bin": "vsekai_editor.exe",
-    "post_install": "Rename-Item \"$dir\\godot.windows.editor.double.x86_64.llvm.exe\" \"vsekai_editor.exe\""
+    "bin": [["godot.windows.editor.double.x86_64.llvm.exe", "vsekai_editor"]]
 }
