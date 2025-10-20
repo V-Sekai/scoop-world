@@ -34,3 +34,5 @@ scoop install scoop-world/<app_name>
   - Command: `model_explorer`
 - **fbx-udim-unpack**: FBX UDIM Unpack tool
   - Command: `vsekai_fbx_udim_unpack`
+- **vsekai-all**: V-Sekai All Apps Meta Package
+  - Installs all V-Sekai apps: vsekai-godot, vsekai-game, vsekai-game-dev

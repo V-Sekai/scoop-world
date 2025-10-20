@@ -1,0 +1,9 @@
+{
+    "version": "1.0.0",
+    "description": "V-Sekai All Apps Meta Package",
+    "homepage": "https://github.com/V-Sekai/scoop-world",
+    "license": "MIT",
+    "url": "https://raw.githubusercontent.com/V-Sekai/scoop-world/main/LICENSE",
+    "hash": "d1cc63e4bbd84056486f9a315eaa273171b2a4d8025f9a6dfb880ed1bbb34e4a",
+    "depends": ["vsekai-godot", "vsekai-game", "vsekai-game-dev"]
+}
