@@ -22,7 +22,7 @@ scoop install scoop-world/<app_name>
 
 ## Apps
 
-- **vsekai-godot**: V-Sekai custom Godot editor with templates
+- **vsekai-godot**: V-Sekai custom Godot editor
   - Command: `vsekai_editor`
 - **vsekai-game**: V-Sekai Game
   - Command: `vsekai_game`
