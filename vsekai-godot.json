@@ -1,12 +1,12 @@
 {
-    "version": "latest.v-sekai-editor-258.0",
+    "version": "latest.v-sekai-editor-259.0",
     "description": "V-Sekai Godot Editor",
     "homepage": "https://github.com/V-Sekai/world-godot",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/V-Sekai/world-godot/releases/download/latest.v-sekai-editor-258/v-sekai-godot-windows.zip",
-            "hash": "03CC7DD3ACA2E20B33295FF4400077B0E55F0F1493B44BD0E9FF05B3567151F2",
+            "url": "https://github.com/V-Sekai/world-godot/releases/download/latest.v-sekai-editor-259/v-sekai-godot-windows.zip",
+            "hash": "B81DF94F48615E30BE87686E2A22A3C8B73B4E1DA1A62FEDD501901080C13975",
             "extract_dir": "v-sekai-godot-windows"
         }
     },
