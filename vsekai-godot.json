@@ -10,5 +10,5 @@
             "extract_dir": "v-sekai-godot-windows"
         }
     },
-    "bin": [["godot.windows.editor.double.x86_64.llvm.exe", "vsekai_editor"]]
+    "bin": [["godot.windows.editor.double.x86_64.llvm.exe", "vsekai-godot"]]
 }
