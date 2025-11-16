@@ -23,16 +23,16 @@ scoop install scoop-world/<app_name>
 ## Apps
 
 - **vsekai-godot**: V-Sekai custom Godot editor
-  - Command: `vsekai_editor`
+  - Command: `vsekai-editor`
 - **vsekai-game**: V-Sekai Game
-  - Command: `vsekai_game`
+  - Command: `vsekai-game`
 - **vsekai-dev**: V-Sekai Game (Development/Testing Build)
-  - Command: `vsekai_dev`
+  - Command: `vsekai-dev`
 - **xr-grid**: XR Grid
-  - Command: `xr_grid`
+  - Command: `xr-grid`
 - **tool-model-explorer**: TOOL Model Explorer
-  - Command: `model_explorer`
+  - Command: `model-explorer`
 - **fbx-udim-unpack**: FBX UDIM Unpack tool
-  - Command: `vsekai_fbx_udim_unpack`
+  - Command: `vsekai-fbx-udim-unpack`
 - **vsekai-all**: V-Sekai All Apps Meta Package
-  - Installs all V-Sekai apps: vsekai-godot, vsekai-game, vsekai-game-dev
+  - Installs all V-Sekai apps: vsekai-godot, vsekai-game, vsekai-dev
