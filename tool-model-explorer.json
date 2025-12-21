@@ -5,5 +5,5 @@
     "license": "MIT",
     "url": "https://github.com/V-Sekai/TOOL_model_explorer/releases/download/v0.0.3/TOOL_model_explorer_v0.0.3_Windows.exe",
     "hash": "3C56A22836DFEC6093F093F6794525DC666483DA7A97D267560711B1855AA8E6",
-    "bin": [["TOOL_model_explorer_v0.0.3_Windows.exe", "model-explorer"]]
+    "bin": [["TOOL_model_explorer_v0.0.3_Windows.exe", "tool-model-explorer"]]
 }
