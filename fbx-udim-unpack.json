@@ -5,5 +5,5 @@
     "license": "MIT",
     "url": "https://github.com/V-Sekai/fbx-udim-unpack/releases/download/v0.1.0-dev1/fbx-udim-unpack-windows-x86_64.exe.zip",
     "hash": "7A6D611F8B3D5F7DFB05F5AB4193EC7704FEC9CA26438009FB5C80C71DB7F0A6",
-    "bin": [["fbx-udim-unpack-windows-x86_64.exe\\fbx-udim-unpack-windows-x86_64.exe", "vsekai_fbx_udim_unpack"]]
+    "bin": [["fbx-udim-unpack-windows-x86_64.exe\\fbx-udim-unpack-windows-x86_64.exe", "vsekai-fbx-udim-unpack"]]
 }

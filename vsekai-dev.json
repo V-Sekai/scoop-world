@@ -5,5 +5,5 @@
     "license": "MIT",
     "url": "https://github.com/V-Sekai/v-sekai-game/releases/download/0.1.0-nightly-2025-09-26T045716-c56ea6e_editor-986baba/v-sekai-game_0.1.0-c56ea6e_editor-986baba_Windows.exe",
     "hash": "B44E766B9F6599DB60061D6CD927EFF50ED4D68A6147270F0A5E20EE9F280954",
-    "bin": [["v-sekai-game_0.1.0-c56ea6e_editor-986baba_Windows.exe", "vsekai_game_dev"]]
+    "bin": [["v-sekai-game_0.1.0-c56ea6e_editor-986baba_Windows.exe", "vsekai-dev"]]
 }
