@@ -1,9 +1,9 @@
 {
-    "version": "0.0.3",
+    "version": "0.4.1",
     "description": "TOOL Model Explorer",
     "homepage": "https://github.com/V-Sekai/TOOL_model_explorer",
     "license": "MIT",
-    "url": "https://github.com/V-Sekai/TOOL_model_explorer/releases/download/v0.0.3/TOOL_model_explorer_v0.0.3_Windows.exe",
-    "hash": "3C56A22836DFEC6093F093F6794525DC666483DA7A97D267560711B1855AA8E6",
-    "bin": [["TOOL_model_explorer_v0.0.3_Windows.exe", "tool-model-explorer"]]
+    "url": "https://github.com/V-Sekai/TOOL_model_explorer/releases/download/v0.4.1/TOOL_model_explorer_v0.4.1_Windows.exe",
+    "hash": "6EE6BF549FB38A0E32C17C101EBF7DB98C09F56F3A9369DA268D837599F6AEEE",
+    "bin": [["TOOL_model_explorer_v0.4.1_Windows.exe", "tool-model-explorer"]]
 }
