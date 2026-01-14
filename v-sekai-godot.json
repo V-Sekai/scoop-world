@@ -1,4 +1,6 @@
-    "version": "latest.v-sekai-editor-275.0",
+{
+    "version": "latest.v-sekai-editor-275.1",
+    "description": "V-Sekai Godot Editor",
     "homepage": "https://github.com/V-Sekai/world-godot",
     "license": "MIT",
     "architecture": {
