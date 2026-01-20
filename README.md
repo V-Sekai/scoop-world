@@ -6,6 +6,8 @@ V-Sekai Scoop bucket for tools and applications.
 
 This bucket requires [Scoop](https://scoop.sh/) to be installed. If you don't have Scoop installed yet, visit the [official Scoop website](https://scoop.sh/) for installation instructions.
 
+Use **Rscoop** [A modern, open-source graphical interface (GUI) for managing Windows applications with Scoop](https://github.com/AmarBego/Rscoop)
+
 ## Installation
 
 Add the bucket:
